@@ -11,7 +11,7 @@ RangeLibc 설치
 ```bash
 sudo pip install cython
 git clone http://itgit.cu.ac.kr/AutonomousDriving/range_libc-for-Noetic
-cd range_libc/pywrappers
+cd range_libc-for-Noetic/pywrapper
 # on VM
 ./compile.sh
 # on car - compiles GPU ray casting methods
