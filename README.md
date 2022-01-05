@@ -19,3 +19,9 @@ cd range_libc-for-Noetic/pywrapper
 # on car - compiles GPU ray casting methods
 ./compile_with_cuda.sh
 ```
+
+
+아래 명령어로 파티클 필터 실행
+```bash
+roslaunch particle_filter localize.launch
+```
