@@ -16,8 +16,6 @@ git clone https://github.com/DCUSnSLab/range_libc_for_ROS_noetic.git
 cd range_libc-for-Noetic/pywrapper
 # on VM
 ./compile.sh
-# on car - compiles GPU ray casting methods
-./compile_with_cuda.sh
 ```
 
 
